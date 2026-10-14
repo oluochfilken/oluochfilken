@@ -1,33 +1,32 @@
-👋 Hi, I'm Oluoch Filken!
+Hi, I'm Oluoch Filken 👋
 
-🎓 I'm currently learning Computer Programming at WeCan Academy.
+I'm currently learning computer programming at WeCan Academy.
 
-I'm passionate about technology and excited to explore how programming can solve real-world problems.
+My Interests
 
-🚀 My Interests
-🤖 Artificial Intelligence (AI)
-🌐 Web Development
-📊 Data Science
-💻 Skills I'm Learning
-HTML
-CSS
-JavaScript
-Python
-Git and GitHub
-⚙️ Git Configuration
-Username: oluochfilken
-Email: oluochfilken@gmail.com
-Git LFS: Configured for handling large files
-📂 My Projects
-🌐 My Portfolio Website
-📝 Markdown Practice: markdown-practice.md
-👥 My Team Repository: Add your team repository link here
-🎯 My Goal
+- Artificial Intelligence (AI)
+- Web Development
+- Data Science
 
-To become a skilled programmer, build useful projects, and continue learning about AI, web technologies, and data science.
+Skills I'm Learning
 
-🤝 Let's Connect!
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git and GitHub
 
-I'm always eager to learn, collaborate, and connect with other developers. Let's build something amazing together!
+Git Configuration
 
-⭐ Thanks for visiting my profile!
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=oluochfilken
+user.email=oluochfilken@gmail.com
+
+My Projects
+
+- "My Portfolio Website" (https://oluochfilken.github.io/)
+- "Markdown Practice" (markdown-practice.md)
+- "My Team Repository" (ADD-YOUR-TEAM-REPOSITORY-LINK-HERE)
