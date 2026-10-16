@@ -19,10 +19,15 @@ Skills I'm Learning
 Git Configuration
 
 filter.lfs.clean=git-lfs clean -- %f
+<br>
 filter.lfs.smudge=git-lfs smudge -- %f
+<br>
 filter.lfs.process=git-lfs filter-process
+<br>
 filter.lfs.required=true
+<br>
 user.name=oluochfilken
+<br>
 user.email=oluochfilken@gmail.com
 
 My Projects
